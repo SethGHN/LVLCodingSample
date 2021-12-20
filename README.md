@@ -1,6 +1,8 @@
 # LVLCodingSample
 Coding sample request to gauge my ability to dive into technologies and libraries which are new to me for LVL Wellness
 
+Database is from https://gist.github.com/mitch-keenan/bd2b6e3e2e364914c53e0ce623833042#:~:text=Chinook%20example%20test%20database
+
 To build this project download it and then navigate to it on the command line.
 
 Once there type "go get ."
