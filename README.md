@@ -15,3 +15,5 @@ From another command line window you can connect to it with the URL tracts/searc
 For example on windows the request might look like:
 
 $curl http://localhost:4041/tracts/love
+
+I believe this follows all requirements as well as also supplying the tract's artist and album as listed in the bonus point section
