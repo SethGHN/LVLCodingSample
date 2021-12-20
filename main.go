@@ -3,7 +3,6 @@ package main
 import (
     "net/http"
     "database/sql"
-    //"fmt"
     "log"
     _"github.com/mattn/go-sqlite3"
     "github.com/gin-gonic/gin"
